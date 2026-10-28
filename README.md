@@ -1,6 +1,6 @@
 # Hi, I'm Volodymyr 👋
 
-Founder & Technical Lead at [DROPLINE Agency](https://dropline.agency).
+Founder at [DROPLINE Agency](https://dropline.agency).
 
 I build digital products for businesses, from websites and web applications to integrations and business process automation.
 
